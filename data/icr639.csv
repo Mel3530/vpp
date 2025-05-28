@@ -1,0 +1,1 @@
+CHROMOSOME,START,REF,ALT,acmg_classification,ExAC_AF,DBSNP_1TGP_ALT_freq,dbscSNV_RF_score,DANN_score,ESP6500SIv2_All_freq,gnomAD_WGS__gnomAD_WES_AF_ALL,nPVS,nPS,nPM,nPP,nBP,stop_gained,frameshift_variant,missense_variant,synonymous_variant,outcome
